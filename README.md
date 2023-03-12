@@ -4,7 +4,7 @@
 :computer: Bachelor's in Chemistry 🤮 (year 3/3) [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 
-### sexo 👀 (ausência) ☹️
+### music live reaction ☹️
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21a2gxkx7aqpzvqcii5b5lj6y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21a2gxkx7aqpzvqcii5b5lj6y&redirect=true)
 
 #### 🔧 Languages and tools 
