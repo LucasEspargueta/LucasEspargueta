@@ -28,8 +28,8 @@
 #### 📈 Github Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSexo&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSexo&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEspargueta&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspargueta&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
 </div>
 
 PS: I stole this from [@PogfLux](https://github.com/PogfLux), but he stole it from someone else too so...
