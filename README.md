@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-:computer: Bachelor's in Chemistry 🤮 (year 3/3) [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
+:computer: Bachelor's in Chemistry COMPLETED! [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 
 ### music live reaction ☹️
