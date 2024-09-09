@@ -2,14 +2,13 @@
 
 <!--- Brief description ---> 
 🧪 Bachelor's in Chemistry COMPLETED! [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
-👨‍🔬 Master's in Chemistry (year 1/2) [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
+👨‍🔬 Master's in Chemistry (year 2/2) [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 
 ### music live reaction ☹️
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21a2gxkx7aqpzvqcii5b5lj6y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21a2gxkx7aqpzvqcii5b5lj6y&redirect=true)
+![Currently listening to](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=LucasSexo&theme=dark&show_scrobbles=true)
 
 #### 🔧 Languages and tools 
-
 <p>
   
   <!--- OS ---> 
