@@ -27,12 +27,6 @@
 
 #### 📈 Github Stats
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEspargueta&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-</div>
-
-<br>
-
 [![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspargueta&layout=compact&langs_count=8&theme=dark)](https://github.com/LucasEspargueta/LucasEspargueta)
 
 PS: I stole this from [@PogfLux](https://github.com/zefluxo), but he stole it from someone else too so...
