@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-🧪 Bachelor's in Chemistry COMPLETED! [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
-👨‍🔬 Master's in Chemistry (year 2/2) [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
+🧪 Bachelor's in Chemistry [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
+👨‍🔬 Master's in Chemistry [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 
 ### music live reaction ☹️
