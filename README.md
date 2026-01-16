@@ -28,5 +28,3 @@
 #### 📈 Github Stats
 
 [![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspargueta&layout=compact&langs_count=8&theme=dark)](https://github.com/LucasEspargueta/LucasEspargueta)
-
-PS: I stole this from [@PogfLux](https://github.com/zefluxo), but he stole it from someone else too so...
