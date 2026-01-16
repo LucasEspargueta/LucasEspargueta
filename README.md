@@ -24,7 +24,3 @@
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
   <img src="https://badges.frapsoft.com/typescript/code/typescript.svg?v=101">
 </p>
-
-#### 📈 Github Stats
-
-[![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspargueta&layout=compact&langs_count=8&theme=dark)](https://github.com/LucasEspargueta/LucasEspargueta)
