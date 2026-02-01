@@ -5,7 +5,7 @@
 👨‍🔬 Master's in Chemistry [@FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 
-### music i'm listening to ☹️
+### music i'm listening to 
 ![Currently listening to](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=LucasSexo&theme=dark&show_scrobbles=true)
 
 #### 🔧 Languages and tools 
